@@ -6,4 +6,10 @@ First, run the development server:
 
 ```bash
 npm run dev
+```
 
+## Paragon Skill Improvements
+- Hallucinated pipelines for Managed Sync
+- Need to include Sync Statuses
+  - didn't realize that `IDLE` is not an error
+  - hallucinated sync statuses

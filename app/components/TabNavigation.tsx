@@ -6,6 +6,7 @@ import { usePathname } from "next/navigation";
 const tabs = [
   { name: "Integrations", href: "/" },
   { name: "Actions", href: "/actions" },
+  { name: "Sync", href: "/sync" },
 ];
 
 export function TabNavigation() {
